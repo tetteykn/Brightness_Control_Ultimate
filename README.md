@@ -21,11 +21,15 @@ A **free trial** is available to test all features before purchasing.
 
 ---
 
-## 🔗 Links
-- **Store**: [Microsoft Store](https://apps.microsoft.com/store/detail/XPDFG2GT0FZBRV)
-- **YouTube:** https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg
-- **Discord:** https://discord.com/invite/jRnaeTJ
-- **Microsoft Store:** Soon
+## 📞 Support & Contact
+
+**Email** — zouaouidtech@gmail.com
+
+[![Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Get_it_Now-0078D4?logo=microsoft&logoColor=white)](https://apps.microsoft.com/store/detail/XPDFG2GT0FZBRV)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube)](https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg)
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord)](https://discord.com/invite/jRnaeTJ)
 
 ---
 
