@@ -25,19 +25,6 @@
 
 ---
 
-## ⚖️ License
-
-This software is **not free**.
-
-- Use is allowed only through an official license
-- **Modification, redistribution, or resale** of the software or its source code
-  is **strictly prohibited** without explicit permission from the author
-
-Copyright © 2026 **Zouaouid Tech**  
-All rights reserved.
-
----
-
 ## 📞 Support & Contact
 
 **Email** — zouaouidtech@gmail.com
