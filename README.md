@@ -22,7 +22,7 @@ A **free trial** is available to test all features before purchasing.
 ---
 
 ## 🔗 Links
-
+- **Store**: [Microsoft Store](https://apps.microsoft.com/store/detail/XPDFG2GT0FZBRV)
 - **YouTube:** https://www.youtube.com/channel/UCksGhlnuOhirbMzMG3yYJmg
 - **Discord:** https://discord.com/invite/jRnaeTJ
 - **Microsoft Store:** Soon
